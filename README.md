@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-18155
-Fork on GitHub
-5349
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Dhiya'uddin Firmansyah</h1>
 <h3 align="center">A intermediate backend developer from Indonesia</h3>
 
@@ -35,7 +19,7 @@ preview
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yayakfirmansyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yayakfirmansyah" height="30" width="40" /></a>
+<a href="https://twitter.com/yayak65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yayak65" height="30" width="40" /></a>
 <a href="https://fb.com/yayakxfirmansyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yayakxfirmansyah" height="30" width="40" /></a>
 <a href="https://instagram.com/yayakfirmansyah._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yayakfirmansyah._" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/yayak firmansyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yayak firmansyah" height="30" width="40" /></a>
