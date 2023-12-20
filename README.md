@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yayakfirmansyah" alt="yayakfirmansyah" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/yayakfirmansyah" target="blank"><img src="https://img.shields.io/twitter/follow/yayakfirmansyah?logo=twitter&style=for-the-badge" alt="yayakfirmansyah" /></a> </p>
+<p align="left"> <a href="https://twitter.com/yayak65" target="blank"><img src="https://img.shields.io/twitter/follow/yayakfirmansyah?logo=twitter&style=for-the-badge" alt="yayakfirmansyah" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter, Laravel, Java**
 
